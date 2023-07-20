@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**hun92/hun92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# &nbsp;&nbsp;정경훈 (J, K, h) AI 개발자
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
